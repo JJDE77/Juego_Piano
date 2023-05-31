@@ -6,7 +6,7 @@ El juego se inicia al pulsar algunas teclas de juego. A continuación, una secue
 ## DESCRIPCION DE MANDO
 
 ## CREDITOS
-Juan Jose Devia Espinosa 
+Juan Jose Devia Espinosa juanj.deviae@uqvirtual.edu.co
 
  Diego Alejandro Vallejo Rojas
  
