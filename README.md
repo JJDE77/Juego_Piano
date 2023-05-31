@@ -7,6 +7,9 @@ El juego se inicia al pulsar algunas teclas de juego. A continuación, una secue
 
 ## CREDITOS
 Juan Jose Devia Espinosa 
-Diego Alejandro Vallejo Rojas
+
+ Diego Alejandro Vallejo Rojas
+ 
 Jhon Alexander Cartagena 
+
 Oscar Mauricio Cabezas Riascos oscarm.cabezasr@uqvirtual.edu.co
