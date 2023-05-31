@@ -4,3 +4,9 @@ El objetivo de este juego es permitir la comunicación a través de Bluetooth, a
 ## INSTRUCCIONES DEL JUEGO 
 El juego se inicia al pulsar algunas teclas de juego. A continuación, una secuencia de teclas desciende por la pantalla, indicando cuáles deben ser presionadas. Cuando la secuencia alcanza un área específica, se debe presionar la tecla correspondiente a cada espacio. Si se presiona correctamente al mismo tiempo que la secuencia está en el área designada, el usuario obtendrá un punto. De lo contrario, se descontará una vida. El usuario tiene un número limitado de vidas disponibles
 ## DESCRIPCION DE MANDO
+
+## CREDITOS
+Juan Jose Devia Espinosa 
+Diego Alejandro Vallejo Rojas
+Jhon Alexander Cartagena 
+Oscar Mauricio Cabezas Riascos oscarm.cabezasr@uqvirtual.edu.co
