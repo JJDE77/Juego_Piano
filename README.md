@@ -17,7 +17,7 @@ Juan Jose Devia Espinosa juanj.deviae@uqvirtual.edu.co
 
 Diego Alejandro Vallejo  diegoa.vallejor@uqvirtual.edu.co
  
-Jhon Alexander Cartagena 
+Jhon Alexander Cartagena jhona.cartagenav@uqvirtual.edu.co
 
 Oscar Mauricio Cabezas Riascos oscarm.cabezasr@uqvirtual.edu.co
 
