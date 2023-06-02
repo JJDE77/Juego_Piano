@@ -6,6 +6,10 @@ El juego se inicia al pulsar algunas teclas de juego. A continuación, una secue
 ## DESCRIPCION DE MANDO
 
 ![image](foto2.jpg)
+![image](foto1.jpg)
+
+
+## INFOGRAFIA
 ![image](foto.jpg)
 
 ## CREDITOS
