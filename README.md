@@ -10,7 +10,7 @@ El juego se inicia al pulsar algunas teclas de juego. A continuación, una secue
 
 
 ## INFOGRAFIA
-![image](foto.jpg)
+![image](foto3.png)
 
 ## CREDITOS
 Juan Jose Devia Espinosa juanj.deviae@uqvirtual.edu.co
